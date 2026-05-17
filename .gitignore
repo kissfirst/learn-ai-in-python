@@ -1,7 +1,5 @@
-@"
 venv/
 __pycache__/
 *.pyc
 logs/
 Krish Naik.docx
-"@ | Out-File -FilePath .gitignore -Encoding utf8
